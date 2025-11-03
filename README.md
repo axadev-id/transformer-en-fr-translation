@@ -1,9 +1,14 @@
+# TUGAS EKSPLORASI Deep Learning
+## Nama Kelompok :
+- Fajrul Ramadhana Aqsa-122140118
+- Ichsan Kuntadi Baskara-122140117
+- Mychael Daniel N-122140104
+
 # Transformer English-French Translation
 
 Implementasi Neural Machine Translation (NMT) menggunakan arsitektur Transformer untuk menerjemahkan teks dari Bahasa Inggris ke Bahasa Prancis. Project ini dibuat sebagai bagian dari pembelajaran Deep Learning dengan fokus pada mekanisme attention dan sequence-to-sequence models.
 
 ## 📋 Deskripsi Project
-
 Project ini mengimplementasikan model Transformer dari scratch menggunakan PyTorch untuk tugas machine translation. Model dilatih pada dataset parallel English-French dengan ~137,860 pasangan kalimat. Implementasi mencakup:
 
 - **Positional Encoding** untuk memberikan informasi posisi token
