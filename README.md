@@ -213,14 +213,13 @@ Project ini dibuat untuk tujuan pembelajaran. Saran dan perbaikan sangat diterim
 4. Push to branch (`git push origin feature/improvement`)
 5. Open Pull Request
 
-## 📝 License
-
-Project ini dibuat untuk keperluan akademis dan pembelajaran. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
 ## 👤 Author
 
 **axadev-id**
 - GitHub: [@axadev-id](https://github.com/axadev-id)
+- GitHub: [@mychaeldaniel122140104](https://github.com/mychaeldaniel122140104)
+- GitHub: [@ichsank18](https://github.com/ichsank18)
 - Repository: [transformer-en-fr-translation](https://github.com/axadev-id/transformer-en-fr-translation)
 
 ## 🙏 Acknowledgments
